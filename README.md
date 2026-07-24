@@ -35,6 +35,10 @@ My doctoral research focuses on CMS-based cauliflower hybrid breeding, where I e
 - Agrobacterium-mediated transformation workflow exposure
 - Scientific writing, technical documentation, and research reporting
 
+## Featured repository
+
+- [Field Trial Data Analysis in R](https://github.com/Siva-ghub5123/field-trial-data-analysis-r) — sample workflow for replicated horticultural field-trial data, including RCBD ANOVA, entry-mean heritability, genotype summaries, a multi-trait selection index, and a basic yield visualization.
+
 ## Selected project experience
 
 ### CMS-based cauliflower hybrid breeding
