@@ -21,6 +21,34 @@ I am building this GitHub profile as a transparent research-code portfolio for p
 
 ## Featured public work
 
+### [AI Plant Phenotyping Workflow in Python](https://github.com/Siva-ghub5123/ai-plant-phenotyping-workflow-python)
+
+A transparent AI/ML demonstration workflow for plant phenotyping using synthetic image-derived and field-derived traits. It includes:
+
+- synthetic phenotyping dataset with canopy, NDVI-proxy, red-edge-proxy, thermal, disease, maturity, height, and SPAD-style variables
+- genotype-held-out validation to reduce data leakage
+- ridge-regression prediction of yield-potential score
+- RMSE, MAE, and R² model-performance reporting
+- permutation-style feature-importance ranking
+- top candidate genotype ranking
+- model card with clear limitations
+
+This repository is honest about scope: it does not claim real UAV/deep-learning image analysis, but shows readiness to work with AI-enabled phenotyping data after image-derived features are extracted.
+
+### [AI-Assisted Breeding Selection in Python](https://github.com/Siva-ghub5123/ai-assisted-breeding-selection-python)
+
+A reproducible AI-assisted breeding selection workflow using synthetic marker and phenotype data. It includes:
+
+- synthetic marker-matrix and multi-trait phenotype generation
+- genotype-level cross-validation
+- ridge-regression prediction for yield, disease score, maturity, and vigor
+- marker-effect inspection for yield
+- transparent multi-trait selection-index ranking
+- ranked candidate genotype outputs
+- model card and generated report
+
+This repository is designed for AI-based breeding, genomic-prediction, and data-supported crop-improvement roles while clearly stating that the data are synthetic and not a real genomic-selection experiment.
+
 ### [Field Trial Data Analysis in R](https://github.com/Siva-ghub5123/field-trial-data-analysis-r)
 
 A reproducible sample workflow for replicated horticultural field-trial data. It includes:
@@ -54,6 +82,8 @@ This repository is designed for roles involving field phenotyping, crop-improvem
 - CMS-based breeding systems and heterosis analysis
 - Disease screening and DUS characterization
 - Statistical analysis of field-trial data
+- AI-based plant phenotyping and image-derived trait interpretation
+- AI-assisted breeding, genomic prediction, and selection-index workflows
 - Marker-assisted and genome-enabled breeding approaches
 - Data-supported breeding decision-making
 - Horticultural crop resilience, yield stability, and quality traits
@@ -66,7 +96,8 @@ I am strengthening my public research-code portfolio around:
 - genotype performance summaries and selection decisions
 - phenotyping-data organization and quality checks
 - PCA, clustering, and trait-based phenotype grouping
-- future extensions toward multi-environment trials, mixed models, and omics/AI-assisted crop improvement
+- Python-based AI/ML examples for plant phenotyping and breeding selection
+- future extensions toward multi-environment trials, mixed models, omics integration, and AI-assisted crop improvement
 
 ## Contact
 
