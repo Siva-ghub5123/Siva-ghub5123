@@ -1,10 +1,37 @@
 # Mokkala Siva Prasad
 
-Ph.D. Vegetable Science | Plant Breeding & Crop Improvement | Field Phenotyping | Horticultural Crops
+### Vegetable Science | Plant Breeding | Field Phenotyping | Horticultural Crop Improvement
 
-I am a Vegetable Science researcher with a focus on crop improvement, field experimentation, germplasm evaluation, hybrid breeding, disease screening, DUS testing, and statistical analysis for horticultural crops.
+I am a Vegetable Science researcher focused on crop improvement, field experimentation, hybrid breeding, disease screening, DUS characterization, and statistical interpretation of horticultural field-trial data.
 
-My doctoral research focuses on CMS-based cauliflower hybrid breeding, where I evaluated CMS lines, testers, and hybrid combinations using field phenotyping, Line x Tester analysis, combining ability, heterosis, and trait-based selection approaches.
+My doctoral work focused on CMS-based cauliflower hybrid breeding, including evaluation of CMS lines, testers, and hybrid combinations through field phenotyping, Line x Tester analysis, combining ability, heterosis, disease screening, and trait-based selection.
+
+I am building this GitHub profile as a transparent research-code portfolio for postdoctoral applications. The public examples here are demonstration workflows using synthetic or shareable data, designed to show how I organize breeding-trial data, analyze traits, and communicate results reproducibly.
+
+## What I bring to a research group
+
+| Area | Evidence from my background |
+|---|---|
+| Vegetable crop improvement | CMS-based cauliflower hybrid evaluation and parental-line assessment |
+| Field phenotyping | Trait recording, disease screening, DUS testing, germplasm evaluation, and trial documentation |
+| Quantitative breeding analysis | Line x Tester analysis, combining ability, heterosis, genotype comparison, and selection-oriented interpretation |
+| Data analysis | R, OPSTAT, TNAUSTAT, OriginPro, MS Excel, and structured field-data summaries |
+| Plant biotechnology exposure | In vitro regeneration and Agrobacterium-mediated transformation workflow exposure in chilli |
+| Scientific communication | Manuscript-oriented writing, technical reporting, presentation of breeding and field-trial results |
+
+## Featured public work
+
+### [Field Trial Data Analysis in R](https://github.com/Siva-ghub5123/field-trial-data-analysis-r)
+
+A reproducible sample workflow for replicated horticultural field-trial data. It includes:
+
+- data checking and trait summaries
+- RCBD ANOVA for marketable yield
+- entry-mean broad-sense heritability estimates
+- genotype ranking using a transparent multi-trait selection index
+- exportable CSV summaries and visualization-ready outputs
+
+This repository is intentionally simple and honest: it demonstrates the kind of breeding-data workflow I can maintain and extend for real postdoctoral research datasets.
 
 ## Research interests
 
@@ -17,45 +44,18 @@ My doctoral research focuses on CMS-based cauliflower hybrid breeding, where I e
 - Data-supported breeding decision-making
 - Horticultural crop resilience, yield stability, and quality traits
 
-## Current research focus
+## Current development direction
 
-- CMS-based cauliflower hybrid development
-- Evaluation of parental lines and hybrid combinations
-- Combining ability and heterosis analysis
-- Phenotypic and disease-screening based selection
-- Documentation and interpretation of breeding-trial data
+I am strengthening my public research-code portfolio around:
 
-## Skills and tools
-
-- Field experimentation and trial coordination
-- Pollination, germplasm handling, and breeding nursery management
-- Phenotypic data collection and trait evaluation
-- Statistical analysis using R, OPSTAT, TNAUSTAT, OriginPro, and MS Excel
-- Tissue culture and in vitro regeneration exposure
-- Agrobacterium-mediated transformation workflow exposure
-- Scientific writing, technical documentation, and research reporting
-
-## Featured repository
-
-- [Field Trial Data Analysis in R](https://github.com/Siva-ghub5123/field-trial-data-analysis-r) — sample workflow for replicated horticultural field-trial data, including RCBD ANOVA, entry-mean heritability, genotype summaries, a multi-trait selection index, and a basic yield visualization.
-
-## Selected project experience
-
-### CMS-based cauliflower hybrid breeding
-
-Developed and evaluated 75 CMS-based cauliflower hybrids using 15 indigenous CMS lines and 5 elite testers. The work included bud pollination, field phenotyping, germplasm evaluation, disease screening, DUS testing, Line x Tester analysis, combining ability, heterosis, and identification of promising hybrid combinations.
-
-### In vitro regeneration in chilli
-
-Worked as a Project Fellow at Agro Biotech Foundation on standardizing in vitro regeneration protocols for chilli cultivars and supporting tissue-culture and transformation-related experimental workflows.
-
-## Career direction
-
-I am interested in postdoctoral research that connects crop improvement, phenotyping, quantitative genetics, plant biotechnology, and modern data-supported breeding methods. My goal is to contribute as a plant breeder who can connect field-level crop performance with statistical and biological interpretation for practical cultivar development.
+- reproducible R workflows for plant-breeding trials
+- genotype performance summaries and selection decisions
+- phenotyping-data organization and quality checks
+- future extensions toward multi-environment trials, mixed models, and omics/AI-assisted crop improvement
 
 ## Contact
 
 - Email: mokkalasivaprasad1@gmail.com
 - LinkedIn: https://www.linkedin.com/in/mokkalasivaprasad
-- Google Scholar: hEAsG4kAAAAJ
-- ORCID: 0009-0007-7957-3109
+- Google Scholar: https://scholar.google.com/citations?user=hEAsG4kAAAAJ
+- ORCID: https://orcid.org/0009-0007-7957-3109
