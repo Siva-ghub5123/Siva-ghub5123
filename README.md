@@ -33,6 +33,20 @@ A reproducible sample workflow for replicated horticultural field-trial data. It
 
 This repository is intentionally simple and honest: it demonstrates the kind of breeding-data workflow I can maintain and extend for real postdoctoral research datasets.
 
+### [Plant Phenotyping Data Workflow in R](https://github.com/Siva-ghub5123/plant-phenotyping-data-workflow-r)
+
+A reproducible sample workflow for plant phenotyping trait data. It includes:
+
+- raw data checking and median-based missing-value handling
+- genotype mean trait summaries
+- trait correlation matrix and heatmap
+- PCA scores, loadings, and variance explained
+- hierarchical clustering and phenotype grouping
+- ranked genotype table using a transparent phenotype index
+- report-style outputs and an R Markdown source file
+
+This repository is designed for roles involving field phenotyping, crop-improvement data interpretation, and early-stage data-supported breeding workflows.
+
 ## Research interests
 
 - Vegetable crop improvement and hybrid breeding
@@ -51,6 +65,7 @@ I am strengthening my public research-code portfolio around:
 - reproducible R workflows for plant-breeding trials
 - genotype performance summaries and selection decisions
 - phenotyping-data organization and quality checks
+- PCA, clustering, and trait-based phenotype grouping
 - future extensions toward multi-environment trials, mixed models, and omics/AI-assisted crop improvement
 
 ## Contact
