@@ -2,11 +2,9 @@
 
 ### Vegetable Science | Plant Breeding | Field Phenotyping | Horticultural Crop Improvement
 
-I am a Vegetable Science researcher focused on crop improvement, field experimentation, hybrid breeding, disease screening, DUS characterization, and statistical interpretation of horticultural field-trial data.
+I am a Vegetable Science PhD researcher with experience in CMS-based cauliflower hybrid breeding, field phenotyping, DUS testing, disease screening, and quantitative analysis using R/Python. My doctoral project assessed 75 cauliflower hybrids and parental materials through field evaluation, Line x Tester analysis, combining ability, heterosis, disease screening, and trait-based selection. I am currently undertaking a hands-on bioinformatics internship to broaden my computational toolkit for plant-science research.
 
-My doctoral work focused on CMS-based cauliflower hybrid breeding, including evaluation of CMS lines, testers, and hybrid combinations through field phenotyping, Line x Tester analysis, combining ability, heterosis, disease screening, and trait-based selection.
-
-I am building this GitHub profile as a transparent research-code portfolio for postdoctoral applications. The public examples here are demonstration workflows using synthetic or shareable data, designed to show how I organize breeding-trial data, analyze traits, and communicate results reproducibly.
+This GitHub profile is a transparent research-code portfolio for postdoctoral and plant-science applications. Public examples use synthetic or shareable data to demonstrate reproducible data organization, analysis, and communication; they do not claim real UAV/deep-learning image analysis or a real genomic-selection experiment.
 
 ## What I bring to a research group
 
